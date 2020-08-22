@@ -2,4 +2,4 @@ octopus deployment
 
 Jenkins pushing the file..
 
-creating release from octopus
+creating release from octopus.
