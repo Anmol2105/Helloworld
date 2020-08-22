@@ -3,4 +3,4 @@ octopus deployment
 Jenkins pushing the file..
 
 creating release from octopus.
-deployin a release to octopus.
+deployin a release to octopus....
